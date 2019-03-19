@@ -1,2 +1,3 @@
-def meal_choice(phrase = "meat")
+def meal_choice
+  puts "meat"
 end
